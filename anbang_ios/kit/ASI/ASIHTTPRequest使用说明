@@ -1,0 +1,54 @@
+
+
+使用ASIHTTPRequest可以很方便的进行一下操作：
+
+    同步/异步方式下载数据
+    定义下载队列，让队列中的任务按指定的并发数来下载（队列下载必须是异步的)
+    提交表单，文件上传
+    处理cookie
+    设置代理
+    上下载进度条
+    重定向处理
+    请求与响应的GZIP
+    验证与授权
+
+等等，只要跟HTTP有关，只有你想不到的，没有她做不到的~
+
+配置方法：
+
+    ASIHTTPRequestConfig.h
+    ASIHTTPRequestDelegate.h
+    ASIProgressDelegate.h
+    ASICacheDelegate.h
+    ASIHTTPRequest.h
+    ASIHTTPRequest.m
+    ASIDataCompressor.h
+    ASIDataCompressor.m
+    ASIDataDecompressor.h
+    ASIDataDecompressor.m
+    ASIFormDataRequest.h
+    ASIInputStream.h
+    ASIInputStream.m
+    ASIFormDataRequest.m
+    ASINetworkQueue.h
+    ASINetworkQueue.m
+    ASIDownloadCache.h
+    ASIDownloadCache.m
+
+iPhone 工程还需要:
+
+    ASIAuthenticationDialog.h
+    ASIAuthenticationDialog.m
+    Reachability.h (在External/Reachability 目录下)
+    Reachability.m (在 External/Reachability 目录下)
+
+库引用：
+
+CFNetwork.framework
+
+SystemConfiguration.framework
+
+MobileCoreServices.framework
+
+
+和libz.dylib 另外，还需要libxml2.dylib

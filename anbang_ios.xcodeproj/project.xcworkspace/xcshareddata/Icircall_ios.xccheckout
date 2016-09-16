@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DD79FB0-18E6-4A1D-926D-D62C2E4B3BFA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Icircall_ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53dcc50d-8887-45fb-8c11-fd21bd696531++1305</key>
+		<string>svn://192.168.1.120/code/Icircall_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Icircall_ios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53dcc50d-8887-45fb-8c11-fd21bd696531++1305</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>53dcc50d-8887-45fb-8c11-fd21bd696531++1305</key>
+		<string>svn://192.168.1.120/code</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.120/code/Icircall_ios/Icircall_ios.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53dcc50d-8887-45fb-8c11-fd21bd696531++1305</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53dcc50d-8887-45fb-8c11-fd21bd696531++1305</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Icircall_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,37 @@
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #import "XMPPServer.h"
+    #import "XMPPServer+Add.h"
+    #import "AddressDefine.h"
+    #import "PublicDefine.h"
+    #import "IQIDDefine.h"
+    #import "UIColor+CustomColors.h"
+    #import "StrUtility.h"
+    #define  NavHeight 64
+    #import "UIImage+JL.h"
+    #import "JLTipsView.h"
+    #import "UIFont+JL.h"
+    #import "AIInterfaceDefine.h"
+    #import "NSString+xmlns.h"
+    #import "UITextField+JL.h"
+    #import "AIControllersTool.h"
+    #import "AIBackBarButtonItem.h"
+    #import "AIFlixBarButtonItem.h"
+    #import "AIImageBarButtonItem.h"
+    #import "AITitleBarButtonItem.h"
+
+#endif
+
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+#define RGBCOLOR(r,g,b) [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:1]
+#define RGBACOLOR(R,G,B,a) [UIColor colorWithRed:(R)/255.0f green:(G)/255.0f blue:(B)/255.0f alpha:(a)]
+#define LOAD_IMAGE(fileName) [UIImage imageWithContentsOfFile:[[NSBundle mainBundle] pathForResource:fileName ofType:@"png"]]

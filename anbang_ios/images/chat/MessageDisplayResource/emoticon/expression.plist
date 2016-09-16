@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>[微笑]</key>
+	<string>smiley_0.png</string>
+	<key>[撇嘴]</key>
+	<string>smiley_1.png</string>
+	<key>[得意]</key>
+	<string>smiley_4.png</string>
+	<key>[流泪]</key>
+	<string>smiley_5.png</string>
+	<key>[发怒]</key>
+	<string>smiley_11.png</string>
+	<key>[呲牙]</key>
+	<string>smiley_13.png</string>
+	<key>[难过]</key>
+	<string>smiley_15.png</string>
+	<key>[抓狂]</key>
+	<string>smiley_18.png</string>
+	<key>[偷笑]</key>
+	<string>smiley_20.png</string>
+	<key>[流汗]</key>
+	<string>smiley_27.png</string>
+	<key>[疑问]</key>
+	<string>smiley_32.png</string>
+	<key>[晕]</key>
+	<string>smiley_34.png</string>
+	<key>[再见]</key>
+	<string>smiley_39.png</string>
+	<key>[鼓掌]</key>
+	<string>smiley_42.png</string>
+	<key>[强]</key>
+	<string>smiley_79.png</string>
+	<key>[弱]</key>
+	<string>smiley_80.png</string>
+	<key>[胜利]</key>
+	<string>smiley_82.png</string>
+	<key>[抱拳]</key>
+	<string>smiley_83.png</string>
+	<key>[拳头]</key>
+	<string>smiley_85.png</string>
+	<key>[OK]</key>
+	<string>smiley_89.png</string>
+</dict>
+</plist>
